@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "INFINITY MARKET",
-  "short_name": "INFINITY MARKET",
-  "description": "INFINITY MARKET",
+  "name": "CATÁLOGO DE PRODUTOS",
+  "short_name": "CATÁLOGO DE PRODUTOS",
+  "description": "CATÁLOGO DE PRODUTOS",
   "icons": [
     {
       "src": "/icon-192x192.png",
