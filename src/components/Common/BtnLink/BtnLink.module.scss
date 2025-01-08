@@ -1,0 +1,13 @@
+.btnlink {
+  button {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    width: 3.5rem;
+  }
+
+  @media screen and (max-width: 370px) {
+    button {
+      width: 3.2rem;
+    }
+  }
+}

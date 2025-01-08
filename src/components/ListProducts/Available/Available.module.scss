@@ -1,0 +1,45 @@
+.list__product {
+
+  border: 1px solid rgb(216, 216, 216);
+  border-radius: 0.5rem;
+  
+  button {
+    width: 95% !important;
+    background-color: #ffd814;
+    border: none;
+    color: black;
+    margin: 1rem 0;
+
+  }
+
+  img {
+    max-width: 180px;    
+    max-height: 200px;   
+    object-fit: cover;
+    object-position: center center;  
+    border-top-right-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+  }
+
+  h5 {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    padding: 3px;
+  }
+
+  h6 {
+    color: rgb(25, 83, 170);
+  }
+
+  .price {
+    h6 {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: #fd384f;
+    }
+    p{
+      color: #b3b3b3;
+      text-decoration: line-through;
+    }
+  }
+}
